@@ -25,3 +25,6 @@ Some additional information about the code. A brief contents:
 
 ## Data
 Due to the volume of the data used, none of them were uploaded here. All of the recordings and results currently live on the 'detop' machine. Most of the heavy computing was done there.
+
+## Report
+See [here](MSc_Dissertation.pdf).
