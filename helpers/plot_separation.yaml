@@ -1,0 +1,11 @@
+path: 'C:\Users\dmach\OneDrive - University of Essex\MSc\Experiments\eeg_sta\run46\emg_proc_s07_sess1_finger_1_results.npy'
+
+subject: 7
+id: 0
+
+norm: False
+
+n_rows: 14
+n_cols: 9
+
+extension_factor: 16

@@ -1,0 +1,4 @@
+source_path: '../data/emg_proc/emg_proc_s06_sess1_finger_1.npy'
+source_id: 46
+trains_path: 'C:\Users\dmach\OneDrive - University of Essex\MSc\Experiments\eeg_sta\run38\run3\emg_proc_s06_sess1_finger_1_unique.npy'
+train_id: 0

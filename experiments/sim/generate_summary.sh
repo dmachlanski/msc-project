@@ -1,0 +1,1 @@
+python summary.py -r "./run1/" -g "../../data/sim/converted/" -o "./" -v=1

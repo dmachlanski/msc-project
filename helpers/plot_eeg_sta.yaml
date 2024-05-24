@@ -1,0 +1,8 @@
+emg_path: '../data/processed/'
+eeg_path: '../data/processed/'
+results_path: '../data/decomposition/final/'
+info_path: '../data/decomposition/tracking/'
+info_gesture: 'all'
+
+subject: 4
+session: 1

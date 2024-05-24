@@ -1,0 +1,1 @@
+python ../../../run_exp9.py -d /detop/temp/experiment2_force/processed/ -s=6 --sess=2 -g fist -n=3 --n_delays=1 --Nmdl=350 -r=5 --Np=5 --km_h=40 --rk=60 -v=2 -o ./

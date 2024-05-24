@@ -1,0 +1,6 @@
+#path: 'C:\Users\dmach\OneDrive - University of Essex\MSc\Experiments\eeg_sta\run34\emg_proc_s06_sess1_finger_1_unique_ipt.npy'
+path: 'C:\Users\dmach\OneDrive - University of Essex\MSc\Experiments\eeg_sta\run38\run3\emg_proc_s06_sess1_finger_2_unique_ipt.npy'
+
+std_dev_size: 3.0
+spike_dist: 1
+ipt_id: 0

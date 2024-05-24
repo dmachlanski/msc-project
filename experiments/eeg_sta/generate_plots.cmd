@@ -1,0 +1,1 @@
+python -W ignore generate_plots.py -d "../../data/" --eeg "../../data/processed/" --ds -s=4 --sess=1 -o "./" --types fist

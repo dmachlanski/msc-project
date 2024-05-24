@@ -1,0 +1,16 @@
+#path: '../experiments/eeg_sta/emg_proc_s04_sess1_finger_raw.npy'
+#path: ../experiments/eeg_sta/emg_proc_s04_sess1_finger_merged.npy
+#path: ../experiments/eeg_sta/emg_proc_s04_sess1_fist_raw.npy
+#path: ../experiments/eeg_sta/emg_proc_s04_sess1_fist_merged.npy
+#path: '../experiments/eeg_sta/tmp/emg_proc_s06_sess1_finger_1_unique.npy'
+path: '../experiments/emg_proc/tmp/run22/emg_proc_s06_sess1_finger_2_unique.npy'
+
+#path: 'C:\Users\dmach\OneDrive - University of Essex\MSc\Experiments\eeg_sta\run25\emg_proc_s04_sess1_finger_5_unique.npy'
+#path: 'C:\Users\dmach\OneDrive - University of Essex\MSc\Experiments\eeg_sta\run26\emg_proc_s06_sess1_finger_1_unique.npy'
+#path: 'C:\Users\dmach\OneDrive - University of Essex\MSc\Experiments\eeg_sta\run39\run2\emg_proc_s06_sess1_finger_1_unique.npy'
+#path: 'C:\Users\dmach\OneDrive - University of Essex\MSc\Experiments\eeg_sta\run42\emg_proc_s06_sess1_fist_unique.npy'
+
+freq: 4096
+
+l_bound: 6
+u_bound: 15

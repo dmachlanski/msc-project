@@ -1,0 +1,4 @@
+#path: '../data/processed/emg_proc_s04_sess1_finger_1.npy'
+#path: '../data/processed/eeg_proc_s04_sess1_finger_1.npy'
+
+path: 'C:\Users\dmach\OneDrive - University of Essex\MSc\Data\eeg_proc\eeg_proc_s04_sess1_finger_1.npy'

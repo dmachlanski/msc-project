@@ -1,0 +1,57 @@
+#emg_path: '../data/emg_proc/combined/emg_proc_s06_sess1_finger.npy'
+emg_path: '../data/processed/emg_proc_s04_sess1_fist_1.npy'
+
+#result_path: 'C:\Users\dmach\OneDrive - University of Essex\MSc\Experiments\eeg_sta\run42\emg_proc_s06_sess1_fist_unique.npy'
+result_path: 'C:\Users\dmach\OneDrive - University of Essex\MSc\Experiments\emg_proc\final\emg_proc_s04_sess1_fist_1_results.npy'
+#result_path: '../experiments/eeg_sta/tmp/run25/kmckc_whitening_results.npy'
+#result_path: '../experiments/eeg_sta/tmp/run26/emg_proc_s07_sess1_finger_1_results.npy'
+new_format: True
+is_ipt: False
+plot_ipt: False
+
+plot_source: False
+
+plot_rate: False
+l_bound: 6
+u_bound: 15
+freq: 4096
+
+# Standard: 2.25-3.5, Alt: 4.0-5.0
+thr_mul: 3.0
+thr_mode: 'normal'
+
+use_all: True
+n_rows: 14
+n_cols: 9
+
+#ids: [10,12,14,16,28,30,32,34,46,48,50,52,64,66,68,70,82,84,86,88,100,102,104,106]
+#n_rows: 6
+#n_cols: 4
+
+#ids: [9,11,13,15,17,36,38,40,42,44,63,65,67,69,71,90,92,94,96,98,117,119,121,123,125]
+#n_rows: 5
+#n_cols: 5
+
+source_id: 1
+window_half: 75
+# take only 30-100 peaks
+start_id: 20
+count: -1
+downsample: False
+
+std_dev: False
+scale: False
+y_min: -30
+y_max: 30
+axis: False
+
+show_snr: False
+rms_snr: False
+noise_window: 25
+titles: True
+
+sub_mean: False
+mean_window: -1
+
+optimise: False
+search_window: 20

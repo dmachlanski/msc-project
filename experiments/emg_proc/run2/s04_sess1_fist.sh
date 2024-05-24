@@ -1,0 +1,1 @@
+python ../../../run_exp2.py -d /detop/temp/experiment2_force/processed/combined/ -s=4 --sess=1 -g fist --n_delays=5 --delay_step=1 --Nmdl=10 -r=10 --Np=10 --km_h=20 --ipt_th=200 --rk=60 --merge_window=10 -v=2 -o ./

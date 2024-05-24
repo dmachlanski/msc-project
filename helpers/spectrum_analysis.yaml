@@ -1,0 +1,12 @@
+path: '../data/processed/emg_proc_s07_sess1_finger_1.npy'
+#path: '../data/sim/converted/S3_50MVC_rec.npy'
+#path: '../data/sim/converted/test3/S1_10MVC_rec.npy'
+
+freq: 4096
+window: 1024
+
+n_rows: 14
+n_cols: 9
+
+#n_rows: 9
+#n_cols: 10

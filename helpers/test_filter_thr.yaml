@@ -1,0 +1,24 @@
+path: '../experiments/eeg_sta/tmp/run22/emg_proc_s06_sess1_finger_1_unique_ipt.npy'
+
+peak_thr_mul: 3.0
+peak_thr: 'def'
+
+# 0.1 looks good
+threshold: 0.1
+min_len: 100
+
+# Works good with CKC
+#threshold: 0.1
+#min_len: 100-120
+
+# Works good with Hybrid
+#threshold: 0.1-0.2
+#min_len: 100
+
+# Works with KmCKC
+#threshold: 0.1-0.2
+#min_len: 100
+
+plot_sim: False
+plot_trains: True
+plot_heat: False

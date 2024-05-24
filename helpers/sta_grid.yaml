@@ -1,0 +1,17 @@
+rec_path: '../data/emg_proc/emg_proc_s06_sess1_finger_1.npy'
+train_path: '../experiments/eeg_sta/tmp/run9/emg_proc_s06_sess1_finger_1_unique.npy'
+
+# Sampling in Hz
+sampling_rate: 4096
+
+n_rows: 14
+n_cols: 9
+
+mu_id: 0
+# Window size for averaging in ms
+window: 40.0
+
+titles: False
+scale: False
+y_min: -30
+y_max: 30

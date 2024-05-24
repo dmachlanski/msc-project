@@ -1,0 +1,12 @@
+#path: 'C:\Users\dmach\OneDrive - University of Essex\MSc\Experiments\eeg_sta\run25\emg_proc_s04_sess1_finger_2_unique_ipt.npy'
+#path: 'C:\Users\dmach\OneDrive - University of Essex\MSc\Experiments\eeg_sta\run34\emg_proc_s06_sess1_finger_1_unique_ipt.npy'
+#path: 'C:\Users\dmach\OneDrive - University of Essex\MSc\Experiments\eeg_sta\run5\emg_proc_s04_sess1_fist_ipt.npy'
+
+path: 'C:\Users\dmach\OneDrive - University of Essex\MSc\Experiments\emg_proc\final\emg_proc_s04_sess1_finger_2_results.npy'
+#path: '../experiments/eeg_sta/tmp/run22/emg_proc_s06_sess1_finger_1_unique_ipt.npy'
+#path: '../experiments/sim/S1_10MVC_results.npy'
+
+new_format: True
+
+start: 0
+amount: 1

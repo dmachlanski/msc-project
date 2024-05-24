@@ -1,0 +1,12 @@
+path: '../experiments/eeg_sta/tmp/run22/emg_proc_s06_sess1_finger_1_mu.npy'
+ipt_path: '../experiments/eeg_sta/tmp/run22/emg_proc_s06_sess1_finger_1_unique_ipt.npy'
+
+#path: 'C:\Users\dmach\OneDrive - University of Essex\MSc\Experiments\eeg_sta\run42\emg_proc_s05_sess1_fist_mu.npy'
+#ipt_path: 'C:\Users\dmach\OneDrive - University of Essex\MSc\Experiments\eeg_sta\run42\emg_proc_s05_sess1_fist_unique_ipt.npy'
+
+n: 0
+
+sim_th: 0.1
+min_len: 100
+
+plot: True
